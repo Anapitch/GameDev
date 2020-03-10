@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_pine_shortSquare.obj-46a7a340a8cb0c67a0cad53dba4d5c2b.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_pine_shortSquare.obj-46a7a340a8cb0c67a0cad53dba4d5c2b.mesh" ]
+
+source_file="res://OBJ format/tree_pine_shortSquare.obj"
+dest_files=[ "res://.import/tree_pine_shortSquare.obj-46a7a340a8cb0c67a0cad53dba4d5c2b.mesh", "res://.import/tree_pine_shortSquare.obj-46a7a340a8cb0c67a0cad53dba4d5c2b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

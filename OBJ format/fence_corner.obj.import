@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fence_corner.obj-8bfad5be9cc3f32d9f84fe3039b1eadc.mesh"
+
+[deps]
+
+files=[ "res://.import/fence_corner.obj-8bfad5be9cc3f32d9f84fe3039b1eadc.mesh" ]
+
+source_file="res://OBJ format/fence_corner.obj"
+dest_files=[ "res://.import/fence_corner.obj-8bfad5be9cc3f32d9f84fe3039b1eadc.mesh", "res://.import/fence_corner.obj-8bfad5be9cc3f32d9f84fe3039b1eadc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

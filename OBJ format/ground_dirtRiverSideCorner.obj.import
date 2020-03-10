@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_dirtRiverSideCorner.obj-571c09767381766d230f6a49bb4ed72d.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_dirtRiverSideCorner.obj-571c09767381766d230f6a49bb4ed72d.mesh" ]
+
+source_file="res://OBJ format/ground_dirtRiverSideCorner.obj"
+dest_files=[ "res://.import/ground_dirtRiverSideCorner.obj-571c09767381766d230f6a49bb4ed72d.mesh", "res://.import/ground_dirtRiverSideCorner.obj-571c09767381766d230f6a49bb4ed72d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
